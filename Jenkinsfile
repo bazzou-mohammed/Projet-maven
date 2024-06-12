@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Get some code from a GitHub repository
-                git branch: 'master', url: 'git@github.com:bazzou-mohammed/Projet-maven.git'
+                git branch: 'master', url: 'https://github.com/bazzou-mohammed/Projet-maven.git'
             }
         }
         stage('Build') {

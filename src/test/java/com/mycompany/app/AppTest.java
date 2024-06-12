@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue1()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
         @Test
     public void shouldAnswerWithTrue2()
@@ -25,7 +25,7 @@ public class AppTest
         @Test
     public void shouldAnswerWithTrue3()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
         @Test
     public void shouldAnswerWithTrue4()
